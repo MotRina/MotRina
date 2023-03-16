@@ -11,7 +11,7 @@
 
 - 📖 Laboratory : [Nakazawa and Okoshi Lab.](https://www.jn.sfc.keio.ac.jp/) ( Deep Learning )
 - 🧥 Club : Clothes designer( [Keio Fashion Creator](https://www.instagram.com/keio_fashioncreator/?hl=ja) )
-- 🌼 Internship : Waseda Juku Corporation( book writing📚, web🍄, analysis🔢, camera📸, design🖼️ )
+- 🌼 Internship : Waseda Juku Corporation( book writing, web, analysis, camera, design )
 - 🌱 Fun fact : Ai🎨, Ps📷, Blender🍎, cat🐈, Fashion🪡, basketball🏀, hot spring♨️
 - 💭 Future : Front-end Engineer, Analyst, Designer,,,(TBD)
 - 🏫 Past : [Documents about my high school life](https://drive.google.com/drive/folders/1AG0lckRDdieY8_YXbBjKOOk4BTZQAScK?usp=sharing)
