@@ -14,3 +14,4 @@
 - 🌼 Internship : Waseda Juku Corporation( book writing📚, web🍄, analysis🔢, camera📸, design🖼️ )
 - 🌱 Fun fact : Ai🎨, Ps📷, Blender🍎, cat🐈, Fashion🪡, basketball🏀
 - 💭 Future : Front-end Engineer
+- 🏫 High School : [Tokyo Metropolitan Kokusai High School](https://drive.google.com/drive/folders/1AG0lckRDdieY8_YXbBjKOOk4BTZQAScK?usp=sharing)
