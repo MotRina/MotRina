@@ -10,3 +10,6 @@
 ## 👋  Hello World !
 
 - 🌱 Fun fact: Design(Ai🎨, Ps📷, Blender🍎), cat🐈, Fashion🪡
+- 🧥 Club: clothing designer( [Keio Fashion Creator](https://www.instagram.com/keio_fashioncreator/?hl=ja) )
+- 📖 Laboratory: [Nakazawa and Okoshi Lab.](https://www.jn.sfc.keio.ac.jp/)
+-    
