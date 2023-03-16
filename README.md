@@ -9,7 +9,7 @@
 
 ## 👋  Hello World !
 
-- 🌱 Fun fact: Design(Ai🎨, Ps📷, Blender🍎), cat🐈, Fashion🪡
-- 🧥 Club: clothing designer( [Keio Fashion Creator](https://www.instagram.com/keio_fashioncreator/?hl=ja) )
-- 📖 Laboratory: [Nakazawa and Okoshi Lab.](https://www.jn.sfc.keio.ac.jp/)
--    
+- 📖 Laboratory : [Nakazawa and Okoshi Lab.](https://www.jn.sfc.keio.ac.jp/)
+- 🧥 Club : clothing designer( [Keio Fashion Creator](https://www.instagram.com/keio_fashioncreator/?hl=ja) )
+- 🌼 Internship : Waseda Juku Corporation( book writing📚, web🍄, analysis🔢, camera📸 )
+- 🌱 Fun fact : Design(Ai🎨, Ps📷, Blender🍎), cat🐈, Fashion🪡
