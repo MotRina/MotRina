@@ -9,7 +9,7 @@
 
 ## 👋  Hello World !
 
-- 📖 Laboratory : [Nakazawa and Okoshi Lab.](https://www.jn.sfc.keio.ac.jp/)
+- 📖 Laboratory : [Nakazawa and Okoshi Lab.](https://www.jn.sfc.keio.ac.jp/) ( Deep Learning )
 - 🧥 Club : Clothes designer( [Keio Fashion Creator](https://www.instagram.com/keio_fashioncreator/?hl=ja) )
 - 🌼 Internship : Waseda Juku Corporation( book writing📚, web🍄, analysis🔢, camera📸, design🖼️ )
 - 🌱 Fun fact : Ai🎨, Ps📷, Blender🍎, cat🐈, Fashion🪡, basketball🏀
