@@ -14,4 +14,4 @@
 - 🌼 Internship : Waseda Juku Corporation( book writing📚, web🍄, analysis🔢, camera📸, design🖼️ )
 - 🌱 Fun fact : Ai🎨, Ps📷, Blender🍎, cat🐈, Fashion🪡, basketball🏀
 - 💭 Future : Front-end Engineer
-- 🏫 past : [Documents about my high school life](https://drive.google.com/drive/folders/1AG0lckRDdieY8_YXbBjKOOk4BTZQAScK?usp=sharing)
+- 🏫 Past : [Documents about my high school life](https://drive.google.com/drive/folders/1AG0lckRDdieY8_YXbBjKOOk4BTZQAScK?usp=sharing)
