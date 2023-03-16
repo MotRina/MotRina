@@ -12,6 +12,6 @@
 - 📖 Laboratory : [Nakazawa and Okoshi Lab.](https://www.jn.sfc.keio.ac.jp/)
 - 🧥 Club : Clothes designer( [Keio Fashion Creator](https://www.instagram.com/keio_fashioncreator/?hl=ja) )
 - 🌼 Internship : Waseda Juku Corporation( book writing📚, web🍄, analysis🔢, camera📸, design🖼️ )
+- 🏫 High School : [Tokyo Metropolitan Kokusai High School](https://drive.google.com/drive/folders/1AG0lckRDdieY8_YXbBjKOOk4BTZQAScK?usp=sharing)
 - 🌱 Fun fact : Ai🎨, Ps📷, Blender🍎, cat🐈, Fashion🪡, basketball🏀
 - 💭 Future : Front-end Engineer
-- 🏫 High School : [Tokyo Metropolitan Kokusai High School](https://drive.google.com/drive/folders/1AG0lckRDdieY8_YXbBjKOOk4BTZQAScK?usp=sharing)
