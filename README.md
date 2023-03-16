@@ -3,6 +3,9 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=MotRina&theme=dracula&show_icons=ture" />
 </p>
 
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=MotRina)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 ### Hi there 👋
 
