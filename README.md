@@ -29,5 +29,5 @@
 <a href="https://www.instagram.com/mot_digitalart_jpcom/" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&amp;logo=instagram&amp;logoColor=white">
 </a>
-<img src="https://komarev.com/ghpvc/?username=MotRina&label=Profile%20views&color=0e75b6&style=flat" alt="korosuke613" /> 
+<img src="https://komarev.com/ghpvc/?username=MotRina&label=Profile%20views&color=0e75b6&style=flat" alt="MotRina" /> 
 </p>
