@@ -20,7 +20,7 @@
 <a href=" " target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-Homepage-134343?style=flat&amp">
 </a>
-<a href="https://twitter.com/ina_rrrrr" target="_blank" rel="noopener">
+<a href="https://twitter.com/ina_rrrrrr" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&amp;logo=twitter&amp;logoColor=white">
 </a>
 <a href="https://www.facebook.com/profile.php?id=100015229268061" target="_blank" rel="noopener">
