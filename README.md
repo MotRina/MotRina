@@ -16,6 +16,7 @@
 - 💭 Future : Front-end Engineer, Data Analyst, Designer,,,(TBD)
 - 🏫 Past : [Documents about my high school life](https://drive.google.com/drive/folders/1AG0lckRDdieY8_YXbBjKOOk4BTZQAScK?usp=sharing)
 
+<br>
 
 <a href=" " target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-Homepage-134343?style=flat&amp">
