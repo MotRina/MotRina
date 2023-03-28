@@ -15,3 +15,19 @@
 - 🌱 Fun fact : Ai🎨, Ps📷, Blender🍎, cat🐈, Fashion🪡, basketball🏀, Hot spring♨️
 - 💭 Future : Front-end Engineer, Data Analyst, Designer,,,(TBD)
 - 🏫 Past : [Documents about my high school life](https://drive.google.com/drive/folders/1AG0lckRDdieY8_YXbBjKOOk4BTZQAScK?usp=sharing)
+
+
+<a href=" " target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/-Homepage-134343?style=flat&amp">
+</a>
+<a href="https://twitter.com/ina_rrrrr" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&amp;logo=twitter&amp;logoColor=white">
+</a>
+<a href="https://www.facebook.com/profile.php?id=100015229268061" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&amp;logo=facebook&amp;logoColor=white">
+</a>
+<a href="https://www.instagram.com/mot_digitalart_jpcom/" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&amp;logo=instagram&amp;logoColor=white">
+</a>
+<img src="https://komarev.com/ghpvc/?username=MotRina&label=Profile%20views&color=0e75b6&style=flat" alt="korosuke613" /> 
+</p>
