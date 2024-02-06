@@ -15,6 +15,7 @@
 - 🌱 Fun fact : Ai🎨, Ps📷, Blender🍎, cat🐈, Fashion🪡, basketball🏀, Hot spring♨️
 - 🏫 Past : [Documents about my high school life](https://drive.google.com/drive/folders/1AG0lckRDdieY8_YXbBjKOOk4BTZQAScK?usp=sharing)
 
+<img src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=MotRina">
 <br>
 
 <a href=" " target="_blank" rel="noopener">
