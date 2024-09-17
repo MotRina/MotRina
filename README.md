@@ -13,7 +13,6 @@
 - 📖 Laboratory : [Nakazawa and Okoshi Lab.](https://www.jn.sfc.keio.ac.jp/) 
 - 🧥 Club : Clothes designer( [Keio Fashion Creator](https://www.instagram.com/keio_fashioncreator/?hl=ja) )
 - 🌱 Fun fact : Ai🎨, Ps📷, Blender🍎, cat🐈, Fashion🪡, basketball🏀, Hot spring♨️
-- 🏫 Past : [Documents about my high school life](https://drive.google.com/drive/folders/1AG0lckRDdieY8_YXbBjKOOk4BTZQAScK?usp=sharing)
 
 <img src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=MotRina"> <img src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=MotRina">
 
