@@ -14,10 +14,11 @@
 - 🧥 Club : Clothes designer( [Keio Fashion Creator](https://www.instagram.com/keio_fashioncreator/?hl=ja) )
 - 🌱 Fun fact : Ai🎨, Ps📷, Blender🍎, cat🐈, Fashion🪡, basketball🏀, Hot spring♨️
 
-<img src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=MotRina"> <img src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=MotRina">
+<!--   <img src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=MotRina"> -->
+<img src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=MotRina">
 
 <a href=" " target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/-Homepage-134343?style=flat&amp">
+<img src="https://img.shields.io/badge/-Homepage-134343?style=flat&amp"> 
 </a>
 <a href="https://twitter.com/ina_rrrrrr" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&amp;logo=twitter&amp;logoColor=white">
